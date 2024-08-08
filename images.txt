@@ -1,1 +1,2 @@
 library/registry:latest
+nginx:latest
