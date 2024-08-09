@@ -1,2 +1,3 @@
 library/registry:latest
 nginx:latest
+jrottenberg/ffmpeg:5.1-alpine
