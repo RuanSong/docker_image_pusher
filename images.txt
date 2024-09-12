@@ -3,3 +3,5 @@ nginx:latest
 jrottenberg/ffmpeg:5.1-alpine
 martialbe/one-api:latest
 golang:1.22.6-alpine3.19
+docker.io/library/development:latest
+docker.io/library/alpine:latest
