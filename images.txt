@@ -3,8 +3,6 @@ jrottenberg/ffmpeg:5.1-alpine
 martialbe/one-api:latest
 
 golang:1.22.6-alpine3.19
-library/development:latest
-library/alpine:latest
+mineru-vllm:latest
 mysql:5.7.18
 redis:7.2.4
-mineru-vllm:latest
