@@ -8,3 +8,4 @@ library/development:latest
 library/alpine:latest
 mysql:5.7.18
 redis:7.2.4
+mineru-vllm:latest
